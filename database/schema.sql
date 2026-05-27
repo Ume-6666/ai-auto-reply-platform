@@ -1,0 +1,12 @@
+
+CREATE TABLE messages(
+ id BIGINT PRIMARY KEY AUTO_INCREMENT,
+ sender VARCHAR(100),
+ message TEXT
+);
+CREATE TABLE reply_history (
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    message TEXT,
+    reply TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

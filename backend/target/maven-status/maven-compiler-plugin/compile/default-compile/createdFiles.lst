@@ -1,0 +1,6 @@
+com\autoreply\controller\ChatController.class
+com\autoreply\repository\UserRepository.class
+com\autoreply\Application.class
+com\autoreply\service\AutoReplyService.class
+com\autoreply\entity\User.class
+com\autoreply\controller\UserController.class

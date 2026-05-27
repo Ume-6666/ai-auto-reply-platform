@@ -1,0 +1,9 @@
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\Application.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\controller\ChatController.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\controller\ReplyHistoryController.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\controller\UserController.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\entity\ReplyHistory.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\entity\User.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\repository\ReplyHistoryRepository.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\repository\UserRepository.java
+C:\Users\umesh\Downloads\AutoReplyPlatform\backend\src\main\java\com\autoreply\service\AutoReplyService.java
